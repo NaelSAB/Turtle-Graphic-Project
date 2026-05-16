@@ -1,5 +1,5 @@
 ﻿# Turtle-Graphic-Project
-A collection of Python projects that run in turtle librent.
+A collection of Python projects that run in turtle.
 
 ## Projects
 - **etch a sketch start** - draw using turle
