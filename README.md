@@ -7,3 +7,4 @@ A collection of Python projects that run in turtle.
 - **Snake Game** - Snake game eat the food and get high score
 - **Paddle Game** - 2 player play paddle with score
 - **Turtle Crossing Game** - a player avoid a cars to reach at the end. each level make cars more speeder
+- **U.S. States game** - guess the states and save the answer data in csv file
